@@ -13,8 +13,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Application-layer Characterization and Traffic Analysis for Encrypted QUIC Transport Protocol.</strong><br />
-          <b>Qianqian Zhang</b>, Chi-Jiun Su. <br />
+          <strong>Application-layer Characterization and Traffic Analysis for Encrypted QUIC Transport Protocol.</strong><br /> <b>Qianqian Zhang</b>, Chi-Jiun Su. <br />
           IEEE Conference on Communications and Network Security (<b>CNS 2023</b>)<br />
        </p>
     </div>
@@ -89,7 +88,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Distributional Reinforcement Learning for mmWave Communications with Intelligent Reflectors on a UAV</strong><br />
           <b>Qianqian Zhang</b>, Walid Saad, and Mehdi Bennis<br />
-           IEEE Global Communications Conference (<b>GLOBECOM 2020</b>)<br />
+           IEEE Global Communications Conference <br />
        </p>
     </div>
 </div>
@@ -103,8 +102,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Reflections in the Sky: Millimeter Wave Communication with UAV-Carried Intelligent Reflectors</strong><br />
           <b>Qianqian Zhang</b>, Walid Saad, and Mehdi Bennis<br />
-           IEEE Global Communications Conference (<b>GLOBECOM 2019</b>)<br />
-          <a href="https://arxiv.org/pdf/1908.03271">[PDF]</a><br />
+           IEEE Global Communications Conference 
+           <a href="https://arxiv.org/pdf/1908.03271">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -114,8 +113,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>An Open Source Modeling Framework for Interdependent Energy-Transportation-Communication Infrastructure in Smart and Connected Communities</strong><br />
           Xing Lu, Kathryn Hinkelman, Yangyang Fu, Jing Wang, Wangda Zuo, <b>Qianqian Zhang</b>, and Walid Saad<br />
-          IEEE Access<br />
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700176">[PDF]</a> <br />
+          IEEE Access<br />  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700176">[PDF]</a> <br />
        </p>
     </div>
 </div>
@@ -129,8 +127,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Machine Learning for Predictive On-Demand Deployment of UAVs for Wireless Communications</strong><br />
           <b>Qianqian Zhang</b>, Mohammad Mozaffari, Walid Saad, Mehdi Bennis, and Merouane Debbah<br />
-           IEEE Global Communications Conference (<b>GLOBECOM 2018</b>)(<br />
-          <a href="https://arxiv.org/pdf/1805.00061">[PDF]</a><br />
+           IEEE Global Communications Conference <br /> <a href="https://arxiv.org/pdf/1805.00061">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -141,8 +138,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Network formation game for multi-hop wearable communications over millimeter wave frequencies</strong><br />
           <b>Qianqian Zhang</b>, Walid Saad, Mehdi Bennis, and Merouane Debbah<br />
-           IEEE Global Communications Conference (<b>GLOBECOM 2017</b>)(<br />
-          <a href="https://centralesupelec.hal.science/hal-02877335/document">[PDF]</a><br />
+           IEEE Global Communications Conference <br /> <a href="https://centralesupelec.hal.science/hal-02877335/document">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -152,8 +148,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Quantum game theory for beam alignment in millimeter wave device-to-device communications</strong><br />
           <b>Qianqian Zhang</b>, Walid Saad, Mehdi Bennis, and Merouane Debbah<br />
-           IEEE Global Communications Conference (<b>GLOBECOM 2016</b>)(<br />
-          <a href="https://arxiv.org/pdf/1610.01982">[PDF]</a><br />
+           IEEE Global Communications Conference <br /> <a href="https://arxiv.org/pdf/1610.01982">[PDF]</a><br />
        </p>
     </div>
 </div>
