@@ -8,8 +8,7 @@ title: Teaching & Service
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>ECE 455/555: Machine Learning</strong><br />
-          Fall, 2024 <br />
+          <strong>ECE 455/555: Machine Learning</strong>     Fall, 2024 <br />
        </p>
     </div>
 </div>
