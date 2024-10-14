@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching & Service
+title: Group Members
 ---
  
 <h3>
