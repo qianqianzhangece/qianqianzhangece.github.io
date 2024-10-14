@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 <br />
 
 <h3>
-    <a name='Journal Publications'></a> 2023
+    <a name='Journal Publications'></a> Journal Publications
 </h3>
 
 
@@ -32,7 +32,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 </div>
 
 <h3>
-    <a name='Conference Publications'></a> 2022
+    <a name='Conference Publications'></a> Conference Publications
 </h3>
 
 <div class="media">
@@ -87,10 +87,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        </p>
     </div>
 </div>
- 
-<h3>
-    <a name='2019'></a> 2019
-</h3>
+
 
 <div class="media">
     <div class="media-body">
