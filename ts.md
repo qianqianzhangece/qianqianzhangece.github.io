@@ -3,7 +3,7 @@ layout: page
 title: Course & Service
 ---
 <h3>
-    <a name='Teaching'></a> Teaching
+    <a name='Course'></a> Teaching
 </h3>
 <div class="media">
     <div class="media-body">
