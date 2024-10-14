@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching & Service
+title: Course & Service
 ---
 <h3>
     <a name='Teaching'></a> Teaching
