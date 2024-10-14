@@ -31,6 +31,26 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
     </div>
 </div>
 
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Predictive Deployment of UAV Base Stations in Wireless Networks: Machine Learning Meets Contract Theory</strong><br />
+          <b>Qianqian Zhang</b>, Walid Saad, Mehdi Bennis, Xing Lu, Merouane Debbah, and Wangda Zuo<br />
+          IEEE Transactions on Wireless Communications, 2021 <a href="https://ieeexplore.ieee.org/document/9220821">[PDF]</a><br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>An Open Source Modeling Framework for Interdependent Energy-Transportation-Communication Infrastructure in Smart and Connected Communities</strong><br />
+          Xing Lu, Kathryn Hinkelman, Yangyang Fu, Jing Wang, Wangda Zuo, <b>Qianqian Zhang</b>, and Walid Saad<br />
+          IEEE Access, 2019  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700176">[PDF]</a> <br />
+       </p>
+    </div>
+</div>
+
 <h3>
     <a name='Conference Publications'></a> Conference Publications
 </h3>
@@ -66,15 +86,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
     </div>
 </div>
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Predictive Deployment of UAV Base Stations in Wireless Networks: Machine Learning Meets Contract Theory</strong><br />
-          <b>Qianqian Zhang</b>, Walid Saad, Mehdi Bennis, Xing Lu, Merouane Debbah, and Wangda Zuo<br />
-          IEEE Transactions on Wireless Communications, 2021 <a href="https://ieeexplore.ieee.org/document/9220821">[PDF]</a><br />
-       </p>
-    </div>
-</div>
+
 
 
 
@@ -99,20 +111,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        </p>
     </div>
 </div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>An Open Source Modeling Framework for Interdependent Energy-Transportation-Communication Infrastructure in Smart and Connected Communities</strong><br />
-          Xing Lu, Kathryn Hinkelman, Yangyang Fu, Jing Wang, Wangda Zuo, <b>Qianqian Zhang</b>, and Walid Saad<br />
-          IEEE Access, 2019  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700176">[PDF]</a> <br />
-       </p>
-    </div>
-</div>
-
- 
-
-
 
 <div class="media">
     <div class="media-body">
