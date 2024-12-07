@@ -10,6 +10,9 @@ title: Course & Service
        <p class="media-heading">
           <strong>ECE 455/555: Machine Learning</strong>, Rowan University, Fall, 2024 <br />
        </p>
+        <p class="media-heading">
+          <strong>ECE 433: Electrical Communication Ssystems</strong>, Rowan University, Spring, 2025 <br />
+       </p>
     </div>
 </div>
 
