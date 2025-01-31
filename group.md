@@ -26,8 +26,20 @@ title: Group Members
           Tyler Jayden Walsh, 2024 Fall -- present <br />
           Edward Charles Peterson, 2024 Fall -- present <br />
           Nathan Joseph Diehl, 2024 Fall -- present <br />
-           James Andrew  Keenan, 2024 Fall -- present <br />
          Jordan Kyle Margiotta, 2024 Fall -- present <br /> 
+       </p>
+    </div>
+</div>
+
+<h3>
+    <a name='Alumni'></a> Alumni
+</h3>
+ 
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading"> 
+          Luke Erich Solem, undeegraduate student, 2024 Fall <br />
+          James Andrew  Keenan, undeegraduate student, 2024 Fall <br />
        </p>
     </div>
 </div>
