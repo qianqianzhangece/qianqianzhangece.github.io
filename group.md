@@ -39,7 +39,7 @@ title: Group Members
     <div class="media-body">
        <p class="media-heading"> 
           Luke Erich Solem (undeegraduate student), September 2024 -- December 2024 <br />
-          James Andrew  Keenan, undeegraduate student, September 2024 -- December 2024 Fall <br />
+          James Andrew  Keenan (undeegraduate student), September 2024 -- December 2024 Fall <br />
        </p>
     </div>
 </div>
