@@ -5,7 +5,7 @@ title: Group Members
 
 <h3>
     <a name='Graduate'></a> PhD Students
-</h3
+</h3>
 
  <div class="media">
     <div class="media-body">
