@@ -11,7 +11,6 @@ title: Group Members
     <div class="media-body">
        <p class="media-heading"> 
           Haoran Chang, 2025 Spring -- present <br />
-           Aymen Bahri, 2025 Spring -- present <br />
        </p>
     </div>
 </div>
