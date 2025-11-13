@@ -54,6 +54,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 <h3>
     <a name='Conference Publications'></a> Conference Publications
 </h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Joint Optimization of Model Splitting and Device Task Assignment for Private Multi-hop Split Learning. </strong><br /> 
+           Dongyu Wei, <b>Qianqian Zhang</b>, Yuchen Liu, Mingzhe Chen  <br />
+          IEEE 59th Annual Conference on Information Sciences and Systems , 2025 <a href="[https://arxiv.org/pdf/2310.10676](https://ieeexplore.ieee.org/abstract/document/10944721)">[PDF]</a><br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
