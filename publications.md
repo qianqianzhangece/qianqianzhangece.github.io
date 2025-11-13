@@ -60,7 +60,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Privacy Preserving Semantic Communications Using Vision Language Models: A Segmentation and Generation Approach. </strong><br /> 
            Haoran Chang, Mingzhe Chen, Huaxia Wang, <b>Qianqian Zhang</b>   <br />
-          IEEE Military Communication Conference, 2025 <a href="[https://arxiv.org/pdf/2310.10676]">[PDF]</a><br />
+          IEEE Military Communication Conference, 2025 <a href="https://arxiv.org/pdf/2310.10676">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -71,7 +71,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Joint Optimization of Model Splitting and Device Task Assignment for Private Multi-hop Split Learning. </strong><br /> 
            Dongyu Wei, <b>Qianqian Zhang</b>, Yuchen Liu, Mingzhe Chen  <br />
-          IEEE 59th Annual Conference on Information Sciences and Systems, 2025 <a href="[https://arxiv.org/pdf/2310.10676]">[PDF]</a><br />
+          IEEE 59th Annual Conference on Information Sciences and Systems, 2025 <a href="https://arxiv.org/pdf/2310.10676">[PDF]</a><br />
        </p>
     </div>
 </div>
