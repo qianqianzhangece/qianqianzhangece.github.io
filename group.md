@@ -10,7 +10,8 @@ title: Group Members
  <div class="media">
     <div class="media-body">
        <p class="media-heading"> 
-          Haoran Chang, 2025 Spring -- present <br />
+           <strong>Haoran Chang</strong>, 2025 Spring -- present <br />
+           M.S., Northeastern University, Boston, MA
        </p>
     </div>
 </div>
