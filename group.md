@@ -16,6 +16,16 @@ title: Group Members
     </div>
 </div>
 
+ <div class="media">
+    <div class="media-body">
+       <p class="media-heading"> 
+           <strong>Yi Yang</strong>, 2025 Fall -- present <br />
+           M.S., University of Chinese Academy of Science,  China
+           B.S., Shandong University, China
+       </p>
+    </div>
+</div>
+
 <!--
 <h3>
     <a name='Undergraduate'></a> Undergraduate Students
