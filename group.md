@@ -22,7 +22,7 @@ title: Group Members
     <div class="media-body">
        <p class="media-heading"> 
            <strong>Yi Yang</strong> <br /> 
-           2025 Fall -- present (Co-advised with <a href="https://engineering.rowan.edu/faculty_staff/listing/huaxia-wang.html" target="_blank">Dr. Huaxia Wang</a>) <br /> 
+           2025 Fall -- present, co-advised with <a href="https://engineering.rowan.edu/faculty_staff/listing/huaxia-wang.html" target="_blank">Dr. Huaxia Wang</a>  <br /> 
            M.S., University of Chinese Academy of Science,  China<br /> 
            B.S., Shandong University, China
        </p>
