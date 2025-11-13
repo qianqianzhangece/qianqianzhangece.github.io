@@ -174,7 +174,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Application layer characterization of encrypted transport protocol</strong><br />
           <b>Qianqian Zhang</b>, Chi-Jiun Su<br />
-          US Patent 12,328,341, 2025  <a href="[https://patentimages.storage.googleapis.com/d8/07/e0/aa77588770b262/US12328341B2.pdf]">[PDF]</a><br />
+          US Patent 12,328,341, 2025  <a href="https://patentimages.storage.googleapis.com/d8/07/e0/aa77588770b262/US12328341B2.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -184,7 +184,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Application layer characterization of encrypted transport protocol</strong><br />
           <b>Qianqian Zhang</b>, Chi-Jiun Su<br />
-          US Patent App. 19/200,431, 2025  <a href="[https://patents.google.com/patent/US20250267170A1/en]">[PDF]</a><br />
+          US Patent App. 19/200,431, 2025  <a href="https://patents.google.com/patent/US20250267170A1/en">[PDF]</a><br />
        </p>
     </div>
 </div>
