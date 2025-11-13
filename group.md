@@ -10,7 +10,8 @@ title: Group Members
  <div class="media">
     <div class="media-body">
        <p class="media-heading"> 
-           <strong>Haoran Chang</strong>, 2025 Spring -- present <br />
+           <strong>Haoran Chang</strong><br /> 
+           2025 Spring -- present <br />
            M.S., Northeastern University, Boston, MA<br />
            B.S., Tianjin University of Technology, China
        </p>
@@ -20,7 +21,8 @@ title: Group Members
  <div class="media">
     <div class="media-body">
        <p class="media-heading"> 
-           <strong>Yi Yang</strong>, 2025 Fall -- present (Co-advised with <a href="https://engineering.rowan.edu/faculty_staff/listing/huaxia-wang.html" target="_blank">Dr. Huaxia Wang) <br />
+           <strong>Yi Yang</strong> <br /> 
+           2025 Fall -- present (Co-advised with <a href="https://engineering.rowan.edu/faculty_staff/listing/huaxia-wang.html" target="_blank">Dr. Huaxia Wang</a>) <br /> 
            M.S., University of Chinese Academy of Science,  China<br /> 
            B.S., Shandong University, China
        </p>
