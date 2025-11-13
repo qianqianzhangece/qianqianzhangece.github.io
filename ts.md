@@ -17,7 +17,16 @@ title: Course & Service
 <h3>
     <a name='Service'></a> Service
 </h3>
- 
+
+ <div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>TPC Member</strong><br />
+           IEEE International Conference on Communications, 2026 <br />
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
