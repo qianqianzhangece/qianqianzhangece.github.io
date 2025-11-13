@@ -11,7 +11,8 @@ title: Group Members
     <div class="media-body">
        <p class="media-heading"> 
            <strong>Haoran Chang</strong>, 2025 Spring -- present <br />
-           M.S., Northeastern University, Boston, MA
+           M.S., Northeastern University, Boston, MA<br />
+           B.S., Tianjin University of Technology, China
        </p>
     </div>
 </div>
@@ -20,7 +21,7 @@ title: Group Members
     <div class="media-body">
        <p class="media-heading"> 
            <strong>Yi Yang</strong>, 2025 Fall -- present <br />
-           M.S., University of Chinese Academy of Science,  China
+           M.S., University of Chinese Academy of Science,  China<br />
            B.S., Shandong University, China
        </p>
     </div>
