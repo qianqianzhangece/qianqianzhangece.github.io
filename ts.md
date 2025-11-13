@@ -37,6 +37,7 @@ title: Course & Service
           IEEE Transactions on Communications <br />
           IEEE Transactions on Vehicular Technology <br />
           IEEE Wireless Communications Magazine <br />
+          IEEE Communications Magazine <br />
           IEEE Transactions on Green Communications and Networking <br />
           ...... <br /> 
        </p>
