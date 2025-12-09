@@ -21,7 +21,16 @@ title: Course & Service
  <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>TPC Member</strong><br />
+          <strong>Panelist</strong><br />
+           Department of Defense (DoD) National Defense Science and Engineering Graduate (NDSEG) Review Panel, 2026 <br />
+       </p>
+    </div>
+</div>
+
+ <div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Technical Program Committee (TPC) Member</strong><br />
            IEEE International Conference on Communications, 2026 <br />
        </p>
     </div>
