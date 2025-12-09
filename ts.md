@@ -22,7 +22,7 @@ title: Course & Service
     <div class="media-body">
        <p class="media-heading">
           <strong>Panelist</strong><br />
-           Department of Defense (DoD) National Defense Science and Engineering Graduate (NDSEG) Review Panel, 2026 <br />
+           Department of Defense (DoD) National Defense Science and Engineering Graduate Review Panel, 2026 <br />
        </p>
     </div>
 </div>
