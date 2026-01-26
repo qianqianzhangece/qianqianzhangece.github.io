@@ -61,7 +61,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
           <strong>Reflections over the Sea: Reconfigurable Intelligent Surface for Maritime Self-Powered Communications </strong><br /> 
            <b>Qianqian Zhang</b>, Long Wang, Ben Wu, Jia Mi  <br />
           IEEE International Conference on Communications, 2026 <a href="https://arxiv.org/pdf/2601.13618">[PDF]</a><br />
-       </p>.
+       </p> 
     </div>
 </div>
 
