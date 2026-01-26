@@ -58,6 +58,18 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Reflections over the Sea: Reconfigurable Intelligent Surface for Maritime Self-Powered Communications </strong><br /> 
+           <b>Qianqian Zhang</b>, Long Wang, Ben Wu, Jia Mi  <br />
+          IEEE International Conference on Communications, 2026 <a href="https://arxiv.org/pdf/2601.13618">[PDF]</a><br />
+       </p>.
+    </div>
+</div>
+
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Privacy Preserving Semantic Communications Using Vision Language Models: A Segmentation and Generation Approach. </strong><br /> 
            Haoran Chang, Mingzhe Chen, Huaxia Wang, <b>Qianqian Zhang</b>   <br />
           IEEE Military Communication Conference, 2025 <a href="https://arxiv.org/pdf/2310.10676">[PDF]</a><br />
