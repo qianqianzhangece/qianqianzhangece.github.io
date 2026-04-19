@@ -12,7 +12,7 @@ title: Group Members
        <p class="media-heading"> 
            <strong>Haoran Chang</strong><br /> 
            2025 Spring -- present <br />
-           M.S., Northeastern University, Boston, MA<br />
+           M.S., Northeastern University, Boston, MA, USA<br />
            B.S., Tianjin University of Technology, China
        </p>
     </div>
