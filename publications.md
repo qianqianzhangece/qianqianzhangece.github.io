@@ -58,6 +58,17 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Optimizing Resource Allocation for Split Learning in Heterogeneous Edge Networks</strong><br /> 
+          Abdullah Aldhafeeri, <b>Qianqian Zhang</b>,Jie Xu, Mingzhe Chen  <br />
+          IEEE 104th Vehicular Technology Conference, 2026  <br />
+       </p> 
+    </div>
+</div>
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Reflections over the Sea: Reconfigurable Intelligent Surface for Maritime Self-Powered Communications </strong><br /> 
            <b>Qianqian Zhang</b>, Long Wang, Ben Wu, Jia Mi  <br />
           IEEE International Conference on Communications, 2026 <a href="https://arxiv.org/pdf/2601.13618">[PDF]</a><br />
