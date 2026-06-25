@@ -70,7 +70,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>Latency Optimization for Multi-Beam LEO Satellite Communications with Interference Control</strong><br /> 
           <b>Qianqian Zhang</b>, Ye Hu, Minchae Jung  <br />
-          IEEE 104th Vehicular Technology Conference, 2026  <br />
+          IEEE 104th Vehicular Technology Conference, 2026  <a href="https://arxiv.org/pdf/2411.09600">[PDF]</a>  <br />   
        </p> 
     </div>
 </div>
