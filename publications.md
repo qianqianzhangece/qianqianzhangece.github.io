@@ -58,8 +58,28 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>CRB-Driven Beamforming and Trajectory Optimization for UAV-assisted ISAC System</strong><br /> 
+          Yi Yang, <b>Qianqian Zhang</b>, Huaxia Wang<br />
+          IEEE 104th Vehicular Technology Conference, 2026  <br />
+       </p> 
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Latency Optimization for Multi-Beam LEO Satellite Communications with Interference Control</strong><br /> 
+          <b>Qianqian Zhang</b>, Ye Hu, Minchae Jung  <br />
+          IEEE 104th Vehicular Technology Conference, 2026  <br />
+       </p> 
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Optimizing Resource Allocation for Split Learning in Heterogeneous Edge Networks</strong><br /> 
-          Abdullah Aldhafeeri, <b>Qianqian Zhang</b>,Jie Xu, Mingzhe Chen  <br />
+          Abdullah Aldhafeeri, <b>Qianqian Zhang</b>, Jie Xu, Mingzhe Chen  <br />
           IEEE 104th Vehicular Technology Conference, 2026  <br />
        </p> 
     </div>
