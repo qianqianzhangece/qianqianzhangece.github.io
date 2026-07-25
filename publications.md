@@ -60,7 +60,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qQXNsR
        <p class="media-heading">
           <strong>CRB-Driven Beamforming and Trajectory Optimization for UAV-assisted ISAC System</strong><br /> 
           Yi Yang, <b>Qianqian Zhang</b>, Huaxia Wang<br />
-          IEEE Vehicular Technology Conference-Fall, 2026  <br />
+          IEEE Vehicular Technology Conference-Fall, 2026   <a href="https://arxiv.org/pdf/2607.19609">[PDF]</a>  <br /> 
        </p> 
     </div>
 </div>
