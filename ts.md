@@ -36,6 +36,15 @@ title: Course & Service
     </div>
 </div>
 
+ <div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Organization Committee Member</strong><br />
+           International Conference on Cyber-physical Social Intelligence, 2025 <br />
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
