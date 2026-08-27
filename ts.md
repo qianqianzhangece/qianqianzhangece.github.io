@@ -30,8 +30,8 @@ title: Course & Service
  <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong> TPC Member</strong><br />
-           IEEE International Conference on Communications, 2026 <br />
+          <strong> Technical Program Committee Member</strong><br />
+           IEEE International Conference on Communications, 2026 - 2027 <br />
        </p>
     </div>
 </div>
