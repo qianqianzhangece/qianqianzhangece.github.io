@@ -45,6 +45,15 @@ title: Course & Service
     </div>
 </div>
 
+ <div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Conference Session Chair</strong><br />
+           IEEE Military Communication Conference, 2026 <br />
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
